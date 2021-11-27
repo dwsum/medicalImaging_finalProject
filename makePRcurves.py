@@ -66,6 +66,46 @@ subject_25 = [0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
 subject_35 = [0, 0, 0, 0, 1, 0, 0, 1, 0, 1]
 combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
 
+#subject 6
+subject_1 = []
+subject_5 = []
+subject_15 = []
+subject_25 = []
+subject_35 = []
+# combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
+
+#subject 7
+subject_1 = []
+subject_5 = []
+subject_15 = []
+subject_25 = []
+subject_35 = []
+# combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
+
+#subject 8
+subject_1 = []
+subject_5 = []
+subject_15 = []
+subject_25 = []
+subject_35 = []
+# combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
+
+#subject 9
+subject_1 = []
+subject_5 = []
+subject_15 = []
+subject_25 = []
+subject_35 = []
+# combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
+
+#subject 10
+subject_1 = []
+subject_5 = []
+subject_15 = []
+subject_25 = []
+subject_35 = []
+# combineSubjects(subject_1, subject_5, subject_15, subject_25, subject_35)
+
 
 def make_PR_curve(this_allSubjects, this_actual, numMRI):
     theActual = []
